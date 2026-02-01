@@ -5,5 +5,9 @@ return {
         },
         command = 'toggleDispatch',
         keybind = 'K'
+    },
+    menuInteracts = {
+        nextKeybind = 'RIGHT',
+        previousKeybind = 'LEFT'
     }
 }
