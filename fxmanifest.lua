@@ -23,6 +23,7 @@ server_scripts {
 }
 
 files {
+    'config/shared.lua',
     'web/index.html',
     'web/styles.css',
     'web/script.js',
